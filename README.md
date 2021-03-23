@@ -29,4 +29,3 @@
 <a href="https://github.com/ahangchen/TFusion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahangchen&repo=TFusion&show_icons=true&line_height=27"/>
 </a>
-<br/>
