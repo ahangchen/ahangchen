@@ -18,7 +18,7 @@
 * Jianming Lv, Jiajie Zhong, **Weihang Chen**, Qinzhe Xiao, Zhenguo Yang and Qing Li. Homepage Augmentation by Predicting Links in Heterogenous Networks. CIKM 2018. \(CCF B类会议\)
 
 
-## Github stats
+## Github Stats
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahangchen&hide=c%2B%2B,c,html" alt="weihang's GitHub Stats" />
 </a>
@@ -28,7 +28,7 @@
 </a>
 
 
-### Github trophy
+### Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahangchen&column=7)](https://github.com/ahangchen/windy-afternoon)
 
 
