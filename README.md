@@ -20,7 +20,7 @@
 
 ## Github Stats
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahangchen&hide=c%2B%2B,c,html" alt="weihang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahangchen&line_height=27&hide=c%2B%2B,c,html" alt="weihang's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
