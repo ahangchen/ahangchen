@@ -21,7 +21,7 @@
 ## Github Stats
 
 <a href="https://github.com/ahangchen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahangchen&show_icons=true&line_height=27&count_private=true" alt="weihang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahangchen&show_icons=true&line_height=27&count_private=true" alt="weihang's GitHub Stats" />
 </a>
 
 
