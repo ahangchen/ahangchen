@@ -26,7 +26,7 @@
 
 
 ### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahangchen)](https://github.com/ahangchen/windy-afternoon)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=ahangchen)](https://github.com/ahangchen/windy-afternoon)
 
 
 
